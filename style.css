@@ -12,7 +12,7 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  background: #d1d8ec;
+  background: #545558;
 }
 .form-collection {
   width: 400px;
@@ -23,7 +23,7 @@ body {
 }
 .box-title{
     padding: 0 15px;
-    color: #f53b57;
+    color: #eb4034;
     text-decoration: underline;
 }
 .absolute-footer {
